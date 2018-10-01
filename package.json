@@ -1,0 +1,22 @@
+{
+  "name": "github-avatar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mckittrickmark/github-avatar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mckittrickmark/github-avatar/issues"
+  },
+  "homepage": "https://github.com/mckittrickmark/github-avatar#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
