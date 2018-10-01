@@ -1,0 +1,9 @@
+github token: 9955109a4858c100cc02f55af2cbe5dbd6e6842c
+
+//Get contributors
+GET /repos/:owner/:repo/contributors
+
+parameters we need
+
+"login": "pbakaus",
+"avatar_url": "https://avatars1.githubusercontent.com/u/43004?v=4",
